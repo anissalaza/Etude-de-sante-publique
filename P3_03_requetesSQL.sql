@@ -28,7 +28,7 @@ WHERE P. code_pays = S. code_pays
 ORDER BY prop_sous_alim  DESC
 LIMIT 10 
 
--- Les 10 porduits pour lesquels le ratio Autres utilisations/Disponibilité intérieure est le plus élevé
+-- Les 10 produits pour lesquels le ratio Autres utilisations/Disponibilité intérieure est le plus élevé
 SELECT produit, avg(autres_utilisations /dispo_int) as ratio_others_dispo FROM equilibre_prod
 GROUP BY produit
 ORDER BY  ratio_others_dispo DESC
