@@ -17,7 +17,7 @@ Ce projet a été réalisé grâce à 2 langages informatiques : Python et SQL.
   * DB Browser for SQLite
   * PowerPoint
 
-Le projet intitulé "_Étude de santé publique_" est composé de 2 parties : [une partie qui identifie les grandes tendances (composée de 14 questions)](https://github.com/anissalaza/Etude-de-sante-publique/blob/main/Réponses%20aux%20questions%201%20à%2014.ipynb) et une [partie permettant de rentrer les données dans une base de données relationnelles](https://github.com/anissalaza/Etude-de-sante-publique/blob/main/Base%20de%20données%20et%20résultats%20SQL.ipynb). Les résultats de la première partie ainsi que ceux des [requêtes SQL](https://github.com/anissalaza/Etude-de-sante-publique/blob/main/Requêtes%20SQL.sql) ont été présentés lors d'une [soutenance](https://github.com/anissalaza/Etude-de-sante-publique/blob/main/Soutenance.pdf) évaluée par une examinateur.
+Le projet intitulé "_Étude de santé publique_" est composé de 2 parties : [une partie qui identifie les grandes tendances (composée de 14 questions)](https://github.com/anissalaza/Etude-de-sante-publique/blob/main/Analyse%20de%20données.ipynb) et une [partie permettant de rentrer les données dans une base de données relationnelles](https://github.com/anissalaza/Etude-de-sante-publique/blob/main/Base%20de%20données%20relationnelle.ipynb). Les résultats de la première partie ainsi que ceux des [requêtes SQL](https://github.com/anissalaza/Etude-de-sante-publique/blob/main/Requêtes%20SQL.sql) ont été présentés lors d'une [soutenance](https://github.com/anissalaza/Etude-de-sante-publique/blob/main/Soutenance.pdf) évaluée par une examinateur.
 
 -----------------------------------------------
 
@@ -26,9 +26,9 @@ Le projet intitulé "_Étude de santé publique_" est composé de 2 parties : [u
 #### *Analyse de données*
 Ce fichier contient le **notebook Jupyter** qui permet de préparer les données répondant à 14 questions.
 
-#### *Base de données relationnelles*
-Le **notebook Jupyter** permet de préparer la base de données relationnelles. L'exportation des données se fait des questions 15 à 18.
-La question 19 permet d'**éxecuter les requêtes SQL** grâce à une connexion entre le notebook et notre base de données relationnelles.
+#### *Base de données relationnelle*
+Ce **notebook Jupyter** permet de préparer la base de données relationnelles. L'exportation des données se fait des questions 15 à 18.
+La question 19 permet d'**éxecuter les requêtes SQL** grâce à une connexion entre le notebook et notre base de données relationnelle.
 
 #### *Requêtes SQL*
 Les **requêtes SQL** répondant à la question 19 se trouvent ici, au format adéquat.
