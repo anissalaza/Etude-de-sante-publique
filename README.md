@@ -9,7 +9,7 @@ Un dossier contenant les données de la FAO a été téléchargé directement su
 Une étude statistique a été réalisée grâce à ces données, après avoir pris soin de les nettoyer, fusionner puis tranformer, et dans un second temps, nous les avons exploitées afin de créer une base de données relationnelles composée de 5 tables.  
 Tout cela m'a donc permis de répondre à la problématique, et ainsi permis de connaître les causes de la faim et de la sous-nutrition dans le monde et les spécificités des pays.
 
-Ce projet a été réalisé grâce à 2 langages informatiques : Python et SQL.
+Ce projet a été réalisé grâce à 2 langages informatiques : _Python et SQL_.
 
 * Outils utilisés :
   * Jupyter et JupyterLab
